@@ -1,5 +1,8 @@
 flask
 flask-cors
+gunicorn
+python-dotenv
 PyPDF2
 langchain
 langchain-text-splitters
+faiss-cpu
